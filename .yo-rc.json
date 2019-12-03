@@ -1,0 +1,53 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "prevention",
+    "packageName": "com.heartland.prevention",
+    "packageFolder": "com/heartland/prevention",
+    "serverPort": 8040,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "el",
+      "hi",
+      "hu",
+      "in",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "MWM0Y2I1NzZmODVhYjY3MWM5NWE2ZTgwM2U4YjAyNjRjNjAyMWZiNzgyNzAzMjRkNjkwYzYyZTYyZTU4NDQyZDdhYTA1OWE3YzdjNzllMWE3ZjViNGYzZWI2MTI2ZmJmYWRhNWQ4MmFiMzI0OGUwODFiYTgxYjIyMWUwYWQxNzQ=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "anana1990",
+  "repository-name": "prevention-module"
+}
